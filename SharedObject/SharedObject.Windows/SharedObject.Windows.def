@@ -1,0 +1,3 @@
+LIBRARY SharedObject.Windows
+EXPORTS
+	GetTemplateInfo2
